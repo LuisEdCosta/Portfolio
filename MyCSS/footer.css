@@ -1,0 +1,20 @@
+/* footer */
+footer {
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+.footer-container {
+    padding: 1.5em;
+    text-align: center;
+    background-color: #2A252C;
+    
+}
+
+.footer-container p, a {
+    margin: 0;
+    color: white;
+    font-size: 13pt;
+    
+}

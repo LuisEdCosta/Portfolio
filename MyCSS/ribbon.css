@@ -1,0 +1,28 @@
+/* ribbon */
+.ribbon-wrapper {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.ribbon-container {
+    text-align: center;
+    padding: 2.5em;
+    background-color: #FA594E;
+}
+
+.ribbon-container p, a {
+    margin: 0;
+    color: white;
+    font-size: 13pt;
+    text-decoration: none;
+}
+
+.ribbon-container a:hover {
+    background-color: #2c87f0;
+    padding: 0.5em;
+    border-radius: 2em;
+}
+
+.ribbon-container a:active {
+    color: purple;
+}

@@ -1,0 +1,10 @@
+/* content */
+.content-wrapper {
+    margin: auto;
+}
+
+.content-container {
+    padding: 2em;
+    vertical-align: top;
+    width: 50%;
+}
